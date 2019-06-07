@@ -11,6 +11,9 @@ Compatibility
 tested on
 - Magento >= EE 2.2.3
 
+currently on testing
+- Magento CE 2.3.1
+
 Roadmap
 -------------
 Introduce environment profiles
