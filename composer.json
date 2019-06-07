@@ -1,9 +1,9 @@
 {
-  "name": "bitbull/ffm-smtpconfigurator",
+  "name": "ffm/smtpconfigurator",
   "description": "Smtp server configurator",
   "require": {
     "magento/framework" : "^101.0||^102.0",
-    "bitbull/ffm-common": "*"
+    "ffm/common": "dev-master"
   },
   "authors": [
     {
