@@ -5,7 +5,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
-- upgrade for magento 2.3
+- upgrade dependency magento 2.3
+- Change uses of zf1 to zf2
 
 ## [0.2.0]
 ### Added
